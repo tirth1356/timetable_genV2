@@ -74,12 +74,6 @@ Time      Monday         Tuesday        Wednesday      Thursday       Friday
 
 ---
 
-## 🧑‍💻 Author
-
-Made with ❤️ by [Your Name]
-
----
-
 ## 📜 License
 
 MIT License – feel free to use and modify!
